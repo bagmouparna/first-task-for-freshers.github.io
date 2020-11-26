@@ -1,0 +1,64 @@
+.nav
+{
+   text-decoration: none;
+   box-align: right;
+   margin-left: 5px;
+   line-height: 100px;
+   float: right ;
+   padding-right: 50px;
+   color:grey;
+   font-family: inherit;
+   font-size: large;
+}
+
+.bg1
+{
+    background-color: white; height: 400px;
+}
+.bg2
+{
+    background-color: rgb(231, 231, 231); height: auto;position: relative;border-color: rgb(128, 127, 127);border-style: solid;
+    border-radius: 5px;border-width: 2px;
+}
+.bg3
+{
+    background-color: white; height: 750px;position: relative;top:-120px;
+}
+.bg4
+{
+    background-color: rgb(238, 237, 237); height: 350px;position: relative;top:70px;
+}
+.bg5
+{
+    background-color: rgb(238, 237, 237);height: auto;
+}
+/* code {
+    font-family: Consolas,"courier new";
+    background-color: #f1f1f1;
+    padding: 4px 15px 4px 15px;
+    font-size: 105%;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    } */
+.v1
+{
+    border-left: 5px solid gray;
+    height: auto;
+    margin-left: 100px;
+}
+.th
+{
+    color:gray;font-size: 24px ; text-align: left; font-family: Gadugi;display: inline;font-weight: lighter;
+}
+#td1
+{
+    margin-left: 230px;
+}
+input:active
+{
+    border-color: red;
+    color: black;
+    height:50px;
+}

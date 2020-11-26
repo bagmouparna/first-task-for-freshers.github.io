@@ -1,0 +1,29 @@
+.nav
+{
+   text-decoration: none;
+   box-align: right;
+   margin-left: 5px;
+   line-height: 100px;
+   float: right ;
+   padding-right: 50px;
+   color:grey;
+   font-family: inherit;
+   font-size: large;
+}
+
+.bg1
+{
+    background-color: white; height: 400px;
+}
+.bg2
+{
+    background-color: rgb(231, 231, 231); height: 800px;position: relative;top:-60px;
+}
+.bg3
+{
+    background-color: white; height: 750px;position: relative;top:-120px;
+}
+.bg4
+{
+    background-color: rgb(238, 237, 237); height: 350px;position: relative;top:70px;
+}

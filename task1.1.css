@@ -1,0 +1,38 @@
+.nav
+{
+   text-decoration: none;
+   box-align: right;
+   margin-left: 5px;
+   line-height: 150px;
+   float: right ;
+   padding-right: 50px;
+   color:grey;
+   font-family: inherit;
+   font-size: large;
+}
+body
+{
+    background-image: url(https://cdn.pixabay.com/photo/2015/03/26/09/41/mountain-690104_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto  ;
+    background-attachment: fixed;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.bg1
+{
+    background-color: white; height: 550px;
+}
+.bg2
+{
+    background-color: rgb(231, 231, 231); height: 800px;position: relative;top:-60px;
+}
+.bg3
+{
+    background-color: white; height: 750px;position: relative;top:-120px;
+}
+.bg4
+{
+    background-color: white; height: 500px;position: relative;top:70px;
+}
